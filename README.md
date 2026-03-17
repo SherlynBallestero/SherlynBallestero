@@ -1,9 +1,9 @@
 ## Hello! 👋 
 My name is Sherlyn Ballestero 😊. Here are some things about me:
-
-🌍 I was born in Cuba, but I am currently living in New Mexico, USA.  
+🎓 Associate of Science in Information and Computer Science from Park University
+🌍 I was born in Cuba, but I am currently living in Florida, USA.  
 🎓 I started my studies at the University of Havana, where I began to love this field. 
-I am now continuing my education in Computer Science at Park University.  
+I am now continuing my education in Computer Science at Park University,( BS in INformation and ComptSciences and Minor in Project Manager )
 💻 I am passionate about programming, learning, research, robotics, and mathematics.  
 🚗 Every time I have the opportunity, I try to go on a road trip, learning more about culture and natural wonders,
 and enjoying the beautiful landscapes.  
