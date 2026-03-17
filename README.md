@@ -1,4 +1,5 @@
-## Hello! 👋 
+## print('Hello world')
+print("""
 My name is Sherlyn Ballestero 😊. Here are some things about me:
 🎓 Associate of Science in Information and Computer Science from Park University
 🌍 I was born in Cuba, but I am currently living in Florida, USA.  
@@ -16,4 +17,4 @@ I am convinced that we can all achieve the results we set for ourselves if we fi
 🤖 In fact, I consider failure to be one of the best things that can happen to us because,
 just like in reinforcement learning in artificial intelligence, errors and failed attempts are essential 
 to improve and optimize our performance over time.
-
+""")
