@@ -1,7 +1,10 @@
 ## print('Hello world')
 
 My name is Sherlyn Ballestero 😊. Here are some things about me:
-🎓 Associate of Science in Information and Computer Science from Park University
+
+🎓 Associate of Science in Information and Computer Science from Park University 
+
+
 🌍 I was born in Cuba, but I am currently living in Florida, USA.  
 🎓 I started my studies at the University of Havana, where I began to love this field. 
 I am now continuing my education in Computer Science at Park University,( BS in INformation and ComptSciences and Minor in Project Manager )
