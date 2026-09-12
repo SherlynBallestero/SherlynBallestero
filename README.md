@@ -1,8 +1,11 @@
 # Hi, I'm Sherlyn Ballestero
 AS in Information and Compute Sciences
 CS student at **Park University** (B.S. Information & Computer Science · Minor in Project Management ·B.S Cybersecurity).  
-Started at **University of Havana (MATCOM)**. Focused on **AI, robotics, and Python**.
+Started at **University of Havana (MATCOM)**.
+Focused on **AI, robotics, and Python**.
+
 📍 Florida, USA · 🇨🇺 Born in Cuba · 🌐 English / Español/ Italian (in process) 
+
 ---
 ## Featured projects
 | Project | What it is | Stack |
