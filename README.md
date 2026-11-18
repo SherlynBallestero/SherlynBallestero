@@ -5,7 +5,7 @@ Student at **Park University** (B.S. Information & Computer Science · Minor in 
 Started at **University of Havana (MATCOM)**.
 Focused on **AI, robotics, and Python**.
 
-📍 Florida, USA · 🇨🇺 Born in Cuba · 🌐 English / Español/ Italian (in process) 
+📍 Florida, USA · 🇨🇺 Born in Cuba · 🌐 English / Spanish / Italian (in process) 
 
 ---
 ## Featured projects
